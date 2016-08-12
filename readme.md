@@ -1,6 +1,14 @@
 ## Typosquatting Abuse (Bangladesh Perspective)
 
 
+### git clone https://github.com/yasin-buet/typo_lumen.git
+### sudo php composer.phar update
+### sudo a2enmod rewrite 
+### sudo chmod -R 777 storage/
+### sudo chmod -R 777 vendor/
+(give the storage & vemdor 777 permission)
+### set up the virtual host https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04
+
 
 ## Lumen PHP Framework
 
